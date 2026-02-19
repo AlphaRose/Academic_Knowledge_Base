@@ -62,6 +62,7 @@ Real Linux understanding comes from:
 
 The certification validates exposure. It does not guarantee fluency.
 
+One minor issue I have with this class is the certification itself. I feel the LPIC-1 would be a far better choice and would allow you to get higher levels if you decided that was worth it for you. 
 ---
 ## Recommended Strategy (Especially for Beginners)
 
